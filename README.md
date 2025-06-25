@@ -98,3 +98,12 @@ ollama pull <your-model>
 ```bash
 MODEL: <your-model>
 ```
+- Terminal Screenshot of PR Summarizer App
+  
+<img width="1374" alt="Screenshot 2025-06-25 at 10 23 52 PM" src="https://github.com/user-attachments/assets/fa3a5fad-70bf-4f4f-a3ad-01f318b9c1c2" />
+
+- Summary displayed on the Github interface
+  
+<img width="939" alt="Screenshot 2025-06-25 at 10 29 46 PM" src="https://github.com/user-attachments/assets/cc05e0bc-ab66-447f-86eb-ebd0b03832e1" />
+
+  
